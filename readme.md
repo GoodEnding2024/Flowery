@@ -53,36 +53,6 @@
 <img src="exec/architecture.png">
 
 
-## 🛠️ 사용된 도구
-
-<p align="center">
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/jwt-000000?style=for-the-badge&logo=jason%20web%20tokens&logoColor=white">
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-<img  src="https://img.shields.io/badge/Spring Security-FF9900?style=for-the-badge&logo=Spring Security&logoColor=white"> 
-<img  src="https://img.shields.io/badge/INTELLIJ IDEA-2C2255?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"> 
-<img src="https://img.shields.io/badge/Flask-333333?style=for-the-badge&logo=flask&logoColor=white">
-<img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
-<img src="https://img.shields.io/badge/mariaDB-007DA3?style=for-the-badge&logo=mariadbfoundation&logoColor=white">
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
-<img src="https://img.shields.io/badge/recoil-764ABC?style=for-the-badge&logo=recoil&logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white">
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
-<img src="https://img.shields.io/badge/redis-F71C1C?style=for-the-badge&logo=redis&logoColor=white">
-<img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
-<img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazon%20aws&logoColor=white"> 
-<img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"> 
-<img src="https://img.shields.io/badge/jirasoftware-0052CC?style=for-the-badge&logo=jira%20software&logoColor=white">
-<img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
-<img src="https://img.shields.io/badge/yolov5-FC6D26?style=for-the-badge&logo=yolo&logoColor=white">
-<img src="https://img.shields.io/badge/pyTorch-EE4C2C?style=for-the-badge&logo=pyTorch&logoColor=white">
-<img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-<img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
-</p>
-
-
 ## 구매자 페이지
 
 ### 메인 페이지
