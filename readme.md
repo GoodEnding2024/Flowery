@@ -50,7 +50,8 @@
 
 
 ## 🖥️ 시스템 아키텍쳐
-<img src="exec/architecture.png">
+<img alt="architecture" src="https://github.com/user-attachments/assets/1b80cd48-e99f-4c46-a297-16ab50f55e68">
+
 
 
 ## 구매자 페이지
